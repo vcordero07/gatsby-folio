@@ -1,1 +1,1 @@
-# gastby-folio
+# gatsby-folio
